@@ -1,0 +1,219 @@
+{\rtf1\ansi\ansicpg1250\deff0\deftab720{\fonttbl{\f0\fnil MS Sans Serif;}{\f1\froman\fcharset2 Symbol;}{\f2\froman\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}{\f3\froman\fcharset238{\*\fname Times New Roman;}Times New Roman CE;}}
+{\colortbl\red0\green0\blue0;\red0\green128\blue0;\red0\green0\blue255;\red255\green255\blue0;\red255\green0\blue0;}
+\deflang1038\pard\plain\f3\fs20\cf0 [22:20:37] - A rendszer elindult
+\par [22:20:37] - A(z) Lak\'e1s nev\'fb \'e9p\'fclet bet\'f6ltve.
+\par [22:20:58] - Kapcsolatfelv\'e9tel a COM1 porton...
+\par [22:20:58] - Kapcsolat l\'e9trej\'f6tt a COM1 porton
+\par (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 - be\'e1ll\'edt\'e1sok elk\'fcldve.
+\par \plain\f3\fs20\cf1 [22:20:59] - (14) Vend\'e9g-t\'fbzjelz\'f5 \'e1llapota: Norm\'e1l
+\par \plain\f3\fs20\cf0 (3) Konyha-h\'f5m\'e9r\'f5 - be\'e1ll\'edt\'e1sok elk\'fcldve.
+\par (6) Nappali-h\'f5m\'e9r\'f5 - be\'e1ll\'edt\'e1sok elk\'fcldve.
+\par (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 - be\'e1ll\'edt\'e1sok elk\'fcldve.
+\par \plain\f3\fs20\cf1 [22:20:59] - (13) Dolgoz\'f3-riaszt\'f3 \'e1llapota: Norm\'e1l
+\par [22:20:59] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf2 [22:20:59] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 17
+\par \plain\f3\fs20\cf4 [22:20:59] - (10) T\'e9rvil\'e1g\'edt\'e1s \'e1llapota: Ki
+\par [22:21:00] - (9) Nappali-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf1 [22:21:00] - (8) Nappali-t\'fbzjelz\'f5 \'e1llapota: Norm\'e1l
+\par [22:21:00] - (7) Nappali-riaszt\'f3 \'e1llapota: Norm\'e1l
+\par \plain\f3\fs20\cf2 [22:21:00] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 25
+\par \plain\f3\fs20\cf4 [22:21:00] - (5) Konyha-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf1 [22:21:00] - (4) Konyha-t\'fbzjelz\'f5 \'e1llapota: Norm\'e1l
+\par \plain\f3\fs20\cf2 [22:21:00] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 27
+\par \plain\f3\fs20\cf1 [22:21:00] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf2 [22:21:00] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 20
+\par [22:21:51] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 18
+\par \plain\f3\fs20\cf3 [22:21:51] - (12) Dolgoz\'f3-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf0 HIBA: Adatv\'e9teli hiba. Ism\'e9telt adatk\'e9r\'e9s...
+\par \plain\f3\fs20\cf2 [22:21:52] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 26
+\par [22:21:52] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 24
+\par [22:21:52] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 21
+\par \plain\f3\fs20\cf4 [22:21:52] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf3 [22:21:52] - (2) F\'fcrd\'f5-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf4 [22:21:52] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf2 [22:21:54] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 17
+\par [22:21:54] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 23
+\par \plain\f3\fs20\cf3 [22:21:54] - (12) Dolgoz\'f3-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:21:54] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 25
+\par [22:21:54] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 20
+\par \plain\f3\fs20\cf3 [22:21:54] - (2) F\'fcrd\'f5-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf1 [22:21:54] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Bekapcsolva
+\par [22:21:54] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf2 [22:21:56] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 18
+\par [22:21:56] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 22
+\par \plain\f3\fs20\cf3 [22:21:56] - (12) Dolgoz\'f3-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:21:56] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 24
+\par \plain\f3\fs20\cf3 [22:21:56] - (9) Nappali-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:21:56] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 21
+\par \plain\f3\fs20\cf4 [22:21:56] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf3 [22:21:56] - (2) F\'fcrd\'f5-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf1 [22:21:56] - (9) Nappali-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf4 [22:21:56] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf2 [22:21:58] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 17
+\par \plain\f3\fs20\cf3 [22:21:58] - (12) Dolgoz\'f3-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:21:58] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 23
+\par [22:21:58] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 23
+\par \plain\f3\fs20\cf3 [22:21:58] - (9) Nappali-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:21:58] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 20
+\par \plain\f3\fs20\cf1 [22:21:58] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf3 [22:21:58] - (2) F\'fcrd\'f5-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf4 [22:21:58] - (9) Nappali-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf1 [22:21:58] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf2 [22:22:00] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 18
+\par \plain\f3\fs20\cf3 [22:22:00] - (12) Dolgoz\'f3-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:00] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 22
+\par \plain\f3\fs20\cf3 [22:22:00] - (9) Nappali-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:00] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 22
+\par [22:22:00] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 21
+\par \plain\f3\fs20\cf4 [22:22:00] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf3 [22:22:00] - (2) F\'fcrd\'f5-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf1 [22:22:00] - (9) Nappali-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf4 [22:22:00] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf2 [22:22:02] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 17
+\par [22:22:02] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 23
+\par \plain\f3\fs20\cf3 [22:22:02] - (12) Dolgoz\'f3-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:02] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 21
+\par \plain\f3\fs20\cf3 [22:22:02] - (9) Nappali-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:02] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 20
+\par \plain\f3\fs20\cf3 [22:22:02] - (2) F\'fcrd\'f5-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf1 [22:22:02] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf4 [22:22:02] - (9) Nappali-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf1 [22:22:02] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf2 [22:22:04] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 18
+\par \plain\f3\fs20\cf3 [22:22:04] - (12) Dolgoz\'f3-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:04] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 22
+\par [22:22:04] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 20
+\par \plain\f3\fs20\cf3 [22:22:04] - (9) Nappali-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:04] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 21
+\par \plain\f3\fs20\cf4 [22:22:04] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf3 [22:22:04] - (2) F\'fcrd\'f5-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf1 [22:22:04] - (9) Nappali-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf4 [22:22:04] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf2 [22:22:06] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 17
+\par [22:22:06] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 23
+\par \plain\f3\fs20\cf3 [22:22:06] - (12) Dolgoz\'f3-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:06] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 19
+\par \plain\f3\fs20\cf3 [22:22:06] - (9) Nappali-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:06] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 20
+\par \plain\f3\fs20\cf1 [22:22:06] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf3 [22:22:06] - (2) F\'fcrd\'f5-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf4 [22:22:06] - (9) Nappali-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf1 [22:22:06] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf2 [22:22:08] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 18
+\par [22:22:08] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 22
+\par \plain\f3\fs20\cf3 [22:22:08] - (12) Dolgoz\'f3-radi\'e1tor bekapcsol\'e1sa...
+\par [22:22:08] - (9) Nappali-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:08] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 18
+\par [22:22:08] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 21
+\par \plain\f3\fs20\cf4 [22:22:08] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf3 [22:22:08] - (2) F\'fcrd\'f5-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf1 [22:22:08] - (9) Nappali-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf4 [22:22:08] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf2 [22:22:10] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 17
+\par [22:22:10] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 23
+\par \plain\f3\fs20\cf3 [22:22:10] - (12) Dolgoz\'f3-radi\'e1tor kikapcsol\'e1sa...
+\par [22:22:10] - (9) Nappali-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:10] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 17
+\par [22:22:10] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 20
+\par \plain\f3\fs20\cf3 [22:22:10] - (5) Konyha-radi\'e1tor kikapcsol\'e1sa...
+\par [22:22:10] - (2) F\'fcrd\'f5-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf1 [22:22:10] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf4 [22:22:10] - (9) Nappali-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf1 [22:22:10] - (5) Konyha-radi\'e1tor \'e1llapota: Bekapcsolva
+\par [22:22:11] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf4 [22:22:12] - (7) Nappali-riaszt\'f3 \'e1llapota: Riaszt\'e1s
+\par \plain\f3\fs20\cf1 [22:22:12] - (10) T\'e9rvil\'e1g\'edt\'e1s \'e1llapota: Be
+\par \plain\f3\fs20\cf2 [22:22:12] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 18
+\par \plain\f3\fs20\cf3 [22:22:12] - (12) Dolgoz\'f3-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:12] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 22
+\par \plain\f3\fs20\cf3 [22:22:12] - (9) Nappali-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:12] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 18
+\par \plain\f3\fs20\cf3 [22:22:12] - (5) Konyha-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:12] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 21
+\par \plain\f3\fs20\cf3 [22:22:12] - (2) F\'fcrd\'f5-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf4 [22:22:12] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf1 [22:22:12] - (9) Nappali-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf4 [22:22:13] - (5) Konyha-radi\'e1tor \'e1llapota: Kikapcsolva
+\par [22:22:13] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf2 [22:22:14] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 17
+\par \plain\f3\fs20\cf3 [22:22:14] - (12) Dolgoz\'f3-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:14] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 23
+\par \plain\f3\fs20\cf3 [22:22:14] - (9) Nappali-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:14] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 17
+\par \plain\f3\fs20\cf3 [22:22:14] - (5) Konyha-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:14] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 20
+\par \plain\f3\fs20\cf3 [22:22:14] - (2) F\'fcrd\'f5-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf1 [22:22:14] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf4 [22:22:14] - (9) Nappali-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf1 [22:22:14] - (5) Konyha-radi\'e1tor \'e1llapota: Bekapcsolva
+\par [22:22:14] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf2 [22:22:16] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 18
+\par \plain\f3\fs20\cf3 [22:22:16] - (12) Dolgoz\'f3-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:16] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 22
+\par \plain\f3\fs20\cf3 [22:22:16] - (9) Nappali-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:16] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 18
+\par \plain\f3\fs20\cf3 [22:22:16] - (5) Konyha-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:16] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 21
+\par \plain\f3\fs20\cf3 [22:22:16] - (2) F\'fcrd\'f5-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf4 [22:22:16] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf1 [22:22:16] - (9) Nappali-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf4 [22:22:17] - (5) Konyha-radi\'e1tor \'e1llapota: Kikapcsolva
+\par [22:22:17] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf2 [22:22:18] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 17
+\par \plain\f3\fs20\cf3 [22:22:18] - (12) Dolgoz\'f3-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf0 HIBA: Adatv\'e9teli hiba. Ism\'e9telt adatk\'e9r\'e9s...
+\par \plain\f3\fs20\cf2 [22:22:18] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 17
+\par \plain\f3\fs20\cf3 [22:22:18] - (5) Konyha-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:18] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 23
+\par \plain\f3\fs20\cf3 (7) Nappali-riaszt\'f3: Kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:18] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 20
+\par \plain\f3\fs20\cf3 [22:22:18] - (9) Nappali-radi\'e1tor bekapcsol\'e1sa...
+\par [22:22:18] - (2) F\'fcrd\'f5-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf1 [22:22:19] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Bekapcsolva
+\par [22:22:19] - (5) Konyha-radi\'e1tor \'e1llapota: Bekapcsolva
+\par [22:22:19] - (7) Nappali-riaszt\'f3 \'e1llapota: Norm\'e1l
+\par \plain\f3\fs20\cf4 [22:22:19] - (9) Nappali-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf1 [22:22:19] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf4 [22:22:19] - (10) T\'e9rvil\'e1g\'edt\'e1s \'e1llapota: Ki
+\par \plain\f3\fs20\cf2 [22:22:20] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 18
+\par [22:22:20] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 22
+\par \plain\f3\fs20\cf3 [22:22:20] - (12) Dolgoz\'f3-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:20] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 18
+\par \plain\f3\fs20\cf3 [22:22:20] - (9) Nappali-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:20] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 21
+\par \plain\f3\fs20\cf3 [22:22:20] - (5) Konyha-radi\'e1tor bekapcsol\'e1sa...
+\par [22:22:20] - (2) F\'fcrd\'f5-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf4 [22:22:20] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf1 [22:22:20] - (9) Nappali-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf4 [22:22:20] - (5) Konyha-radi\'e1tor \'e1llapota: Kikapcsolva
+\par [22:22:21] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf2 [22:22:22] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 17
+\par \plain\f3\fs20\cf3 [22:22:22] - (12) Dolgoz\'f3-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:22] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 23
+\par \plain\f3\fs20\cf3 [22:22:22] - (9) Nappali-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:22] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 17
+\par \plain\f3\fs20\cf3 [22:22:22] - (5) Konyha-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:22] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 20
+\par \plain\f3\fs20\cf3 [22:22:22] - (2) F\'fcrd\'f5-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf1 [22:22:22] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf4 [22:22:22] - (9) Nappali-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf1 [22:22:23] - (5) Konyha-radi\'e1tor \'e1llapota: Bekapcsolva
+\par [22:22:23] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf2 [22:22:24] - (11) Dolgoz\'f3-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 18
+\par \plain\f3\fs20\cf3 [22:22:24] - (12) Dolgoz\'f3-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:24] - (6) Nappali-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 22
+\par \plain\f3\fs20\cf3 [22:22:24] - (9) Nappali-radi\'e1tor kikapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:24] - (3) Konyha-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 18
+\par \plain\f3\fs20\cf3 [22:22:24] - (5) Konyha-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf2 [22:22:24] - (1) F\'fcrd\'f5-h\'f5m\'e9r\'f5 \'e9rt\'e9ke: 21
+\par \plain\f3\fs20\cf3 [22:22:24] - (2) F\'fcrd\'f5-radi\'e1tor bekapcsol\'e1sa...
+\par \plain\f3\fs20\cf4 [22:22:24] - (12) Dolgoz\'f3-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf1 [22:22:25] - (9) Nappali-radi\'e1tor \'e1llapota: Bekapcsolva
+\par \plain\f3\fs20\cf4 [22:22:25] - (5) Konyha-radi\'e1tor \'e1llapota: Kikapcsolva
+\par [22:22:25] - (2) F\'fcrd\'f5-radi\'e1tor \'e1llapota: Kikapcsolva
+\par \plain\f3\fs20\cf0 [22:22:46] - Kapcsolat lez\'e1r\'e1sa...
+\par [22:22:47] - Kapcsolat lez\'e1rva a COM1 porton
+\par [22:22:59] - Kil\'e9p\'e9s a programb\'f3l.
+\par \plain\f3\fs20 
+\par }
+ 
