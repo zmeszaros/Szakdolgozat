@@ -1,0 +1,27 @@
+:Base .\Súgó.hlp>Sugo
+:Title VezerloSugo
+1 Vezérlõ=VezerloSugo
+1 Menük
+2 Fõmenü=FoMenu
+2 File menü
+3 Megnyitás menü=MegnyitasMenu
+3 Mentés menü=MentesMenu
+3 Bezárás menü=BezarasMenu
+3 Kapcsolat megnyitása=KapcsOpenMenu
+3 Kapcsolat bezárása=KapcsCloseMenu
+3 Kilépés menü=KilepesMenu
+2 Beállítások menü
+3 Hõmérõ menüpont=HomeroMenu
+3 Riasztó menü=RiasztoMenu
+3 Tûzjelzõ menü=TuzjelzoMenu
+3 Fûtõtest menü=FutotestMenu
+3 Egyéb menü=EgyebMenu
+3 Vezérlõpult menü=VezerlopultMenu
+3 Beállítások menü=BeallitasokMenu
+1 Napló menüpont=NaploMenu
+1 Berendezések menüpont=BerendezesekMenu
+1 Súgó menü=SugoMenu
+1 Program használata
+2 Program indítása=ProgramInditasa
+2 Áttekintés gomb=AttekintGomb
+2 Riasztási események kezelése=Riasztasok
