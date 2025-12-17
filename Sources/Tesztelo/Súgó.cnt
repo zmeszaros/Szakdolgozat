@@ -1,0 +1,18 @@
+:Base .\Súgó.hlp>Sugo
+:Title TeszteloSugo
+1 Tesztelõ=TeszteloSugo
+1 Menü
+2 Attekintés=AttekintMenu
+2 Hõmérõk=HomeroMenu
+2 Riasztók=RiasztokMenu
+2 Tûzjelzõk=TuzjelzokMenu
+2 Fûtõtestek=FutotestekMenu
+2 Más berendezések=MasBerendMenu
+2 Beállítások=BeallitasMenu
+2 Output puffer=OutputMenu
+2 Súgó=SugoMenu
+2 Kilépés=KilepesMenu
+1 Program használata
+2 Program indítása=ProgramInditasa
+2 Kapcsolat létrehozása=Connect
+2 Kapcsolat bezárása=Disconnect
