@@ -1,0 +1,22 @@
+:Base .\Súgó.hlp>Sugo
+:Title TervezoSugo
+1 Tervezõ=TervezoSugo
+1 Menük
+2 Fõmenü=FoMenu
+2 File menü
+3 Új menü=UjMenu
+3 Megnyitás menü=MegnyitasMenu
+3 Mentés menü=MentesMenu
+3 Mentés másként menü=MentesMaskentMenu
+3 Bezárás menü=BezarasMenu
+3 Kilépés menü=KilepesMenu
+1 Beállítások menüpont=Beallitasok
+2 Objektumok menüpont=ObjektumokMenu
+2 Berendezések menüpont=BerendezesekMenu
+2 Monitor menüpont=MonitorMenu
+2 Súgó menü=SugoMenu
+1 Program használata
+2 Program indítása=ProgramInditasa
+2 Rajzolás=RajzolasGomb
+2 Objektumok=ObjektumGomb
+2 Berendezések=BerendezesGomb

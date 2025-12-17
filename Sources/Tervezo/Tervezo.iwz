@@ -1,0 +1,291 @@
+
+[InstallShield Wizard]
+iDate=2
+iTime=1
+Flag=0
+ISX.EXE Size=679936
+ISX.EXE Date=11:21:52  1999.4.8
+ISX.EXE Ver=2.1.2.62
+SETUP.EXE Size=45312
+SETUP.EXE Date=9:12:24  1999.3.23
+SETUP.EXE Ver=3.0.111.0
+SETUP.INS Size=81342
+SETUP.INS Date=11:26:40  1999.4.8
+SETUP.INS Ver=Not available
+_INST16.EX_ Size=81342
+_INST16.EX_ Date=11:26:40  1999.4.8
+_INST16.EX_ Ver=Not available
+_INST32I.EX_ Size=294079
+_INST32I.EX_ Date=9:12:22  1999.3.23
+_INST32I.EX_ Ver=Not available
+ISDEPEND.INI Size=6418
+ISDEPEND.INI Date=19:56:58  1999.7.8
+ISDEPEND.INI Ver=Not available
+SWDEPEND.INI Size=9264
+SWDEPEND.INI Date=20:10:16  1999.7.8
+SWDEPEND.INI Ver=Not available
+ICOMP.EXE Size=119808
+ICOMP.EXE Date=9:12:24  1999.3.23
+ICOMP.EXE Ver=3.00.062
+SPLIT.EXE Size=90624
+SPLIT.EXE Date=9:12:24  1999.3.23
+SPLIT.EXE Ver=3.00.060
+PACKLIST.EXE Size=87552
+PACKLIST.EXE Date=9:12:24  1999.3.23
+PACKLIST.EXE Ver=3.00.060
+Version=2.12
+DevTool=Delphi 5
+Platform=Win32
+DisksBuilt=1
+DisksDir=TERVEZO\650MB\
+TabsVisit=11111111100001111
+LangNum=0
+LangDir=
+
+[VisualDesign]
+AppName=Tervezõ
+AppExe=[Program Files]\Tervezo.exe
+AppExeFile=
+Version=1.0
+Company=IntellHouse
+Title=Tervezõ
+TitleType=1
+BackgrndBmp=
+BackgrndAlign=4
+Backgrnd=1
+BackgrndColor=10
+Uninstall=1
+UninstallChecked=1
+Silent=1
+SmsMode=0
+
+[Types]
+Types=1
+Type1Components=1
+Type1Name=Complete
+Type1ComponentList=1 
+
+[Components]
+Components=1
+Component1Groups=4
+Component1Name=Application Files
+Component1Description=Application files needed to run the application
+Component1GroupList=1 2 3 4 
+
+[Groups]
+Groups=4
+Group1Size=2542085
+Group1Files=3
+Group1Name=Program Files
+Group1Dir=<INSTALLDIR>
+Group1Update=0
+Group1TargetOS=-1
+Group1File1=C:\IntellHouse\Tervezo\Tervezo.exe
+Group1File2=C:\IntellHouse\Tervezo\Súgó.cnt
+Group1File3=C:\IntellHouse\Tervezo\Súgó.hlp
+Group2Size=55357
+Group2Files=13
+Group2Name=Alaprajzok
+Group2Dir=<ProgramFilesDir>\IntellHouse\Alaprajzok\Lakás
+Group2Update=1
+Group2TargetOS=-1
+Group2File1=C:\IntellHouse\Alaprajzok\Lakás\Tuzjelzo.DB
+Group2File2=C:\IntellHouse\Alaprajzok\Lakás\Alaprajz.PX
+Group2File3=C:\IntellHouse\Alaprajzok\Lakás\Alaprajz.XG0
+Group2File4=C:\IntellHouse\Alaprajzok\Lakás\Alaprajz.YG0
+Group2File5=C:\IntellHouse\Alaprajzok\Lakás\Berendezes.DB
+Group2File6=C:\IntellHouse\Alaprajzok\Lakás\Egyeb.DB
+Group2File7=C:\IntellHouse\Alaprajzok\Lakás\Futotest.DB
+Group2File8=C:\IntellHouse\Alaprajzok\Lakás\Homero.DB
+Group2File9=C:\IntellHouse\Alaprajzok\Lakás\Kapcsolat.DB
+Group2File10=C:\IntellHouse\Alaprajzok\Lakás\Lakás.ini
+Group2File11=C:\IntellHouse\Alaprajzok\Lakás\Objektum.DB
+Group2File12=C:\IntellHouse\Alaprajzok\Lakás\Riaszto.DB
+Group2File13=C:\IntellHouse\Alaprajzok\Lakás\Alaprajz.DB
+Group3Size=7156881
+Group3Files=25
+Group3Auto=101
+Group3ID=38701
+Group3Name=BDE/IDAPI Files
+Group3Dir=<ProgramFilesDir>\Common Files\Borland Shared\BDE
+Group3Update=-1
+Group3TargetOS=-1
+Group3File1=C:\Program Files\Common Files\Borland Shared\BDE\IDAPI32.DLL
+Group3File1Auto=101
+Group3File2=C:\Program Files\Common Files\Borland Shared\BDE\IDR20009.DLL
+Group3File2Auto=101
+Group3File3=C:\Program Files\Common Files\Borland Shared\BDE\BLW32.DLL
+Group3File3Auto=101
+Group3File4=C:\Program Files\Common Files\Borland Shared\BDE\BDEADMIN.EXE
+Group3File4Auto=101
+Group3File5=C:\Program Files\Common Files\Borland Shared\BDE\BDEADMIN.HLP
+Group3File5Auto=101
+Group3File6=C:\Program Files\Common Files\Borland Shared\BDE\BDEADMIN.CNT
+Group3File6Auto=101
+Group3File7=C:\Program Files\Common Files\Borland Shared\BDE\BDEADMIN.TOC
+Group3File7Auto=101
+Group3File8=C:\Program Files\Common Files\Borland Shared\BDE\IDDR32.DLL
+Group3File8Auto=101
+Group3File9=C:\Program Files\Common Files\Borland Shared\BDE\IDPDX32.DLL
+Group3File9Auto=101
+Group3File10=C:\Program Files\Common Files\Borland Shared\BDE\IDSQL32.DLL
+Group3File10Auto=101
+Group3File11=C:\Program Files\Common Files\Borland Shared\BDE\IDBAT32.DLL
+Group3File11Auto=101
+Group3File12=C:\Program Files\Common Files\Borland Shared\BDE\IDQBE32.DLL
+Group3File12Auto=101
+Group3File13=C:\Program Files\Common Files\Borland Shared\BDE\IDDBAS32.DLL
+Group3File13Auto=101
+Group3File14=C:\Program Files\Common Files\Borland Shared\BDE\IDASCI32.DLL
+Group3File14Auto=101
+Group3File15=C:\Program Files\Common Files\Borland Shared\BDE\IDODBC32.DLL
+Group3File15Auto=101
+Group3File16=C:\Program Files\Common Files\Borland Shared\BDE\IDDA3532.DLL
+Group3File16Auto=101
+Group3File17=C:\PROGRAM FILES\INSTALLSHIELD\EXPRESS FOR DELPHI 5\redist\IDAPINST.DLL
+Group3File17Auto=101
+Group3File18=C:\Program Files\Common Files\Borland Shared\BDE\BANTAM.DLL
+Group3File18Auto=101
+Group3File19=C:\Program Files\Common Files\Borland Shared\BDE\USA.BTL
+Group3File19Auto=101
+Group3File20=C:\Program Files\Common Files\Borland Shared\BDE\EUROPE.BTL
+Group3File20Auto=101
+Group3File21=C:\Program Files\Common Files\Borland Shared\BDE\CEEUROPE.BTL
+Group3File21Auto=101
+Group3File22=C:\Program Files\Common Files\Borland Shared\BDE\JAPAN.BTL
+Group3File22Auto=101
+Group3File23=C:\Program Files\Common Files\Borland Shared\BDE\OTHER.BTL
+Group3File23Auto=101
+Group3File24=C:\Program Files\Common Files\Borland Shared\BDE\FAREAST.BTL
+Group3File24Auto=101
+Group3File25=C:\Program Files\Common Files\Borland Shared\BDE\CHARSET.CVB
+Group3File25Auto=101
+Group4Size=6080
+Group4Files=1
+Group4Auto=98
+Group4ID=38698
+Group4Name=BDE/IDAPI CNF File
+Group4Dir=<ProgramFilesDir>\Common Files\Borland Shared\BDE
+Group4Update=-1
+Group4TargetOS=-1
+Group4File1=C:\PROGRAM FILES\INSTALLSHIELD\EXPRESS FOR DELPHI 5\redist\IDAPI.CNF
+Group4File1Auto=98
+
+[Sequence]
+DestinationLocationDir=<ProgramFilesDir>\IntellHouse\Tervezo
+DatabaseLocationDir=<INSTALLDIR>\data
+SelectProgramFolderName=IntellHouse\Tervezõ
+WelcomeMessage=1
+WelcomeMessageFile=
+DestinationLocation=1
+SelectProgramFolder=1
+BeginFileTransfer=1
+ProgressBar=1
+SetupComplete=1
+SetupCompleteRebootOpt=1
+SetupCompleteExec=[Program Files]\Tervezo.exe
+SetupCompleteExecParam=
+SetupCompleteExecReadme=
+
+[RegEntries]
+Reg1Path=HKEY_CLASSES_ROOT
+Reg1Val1Type=0
+Reg1Val1Name=(Default)
+Reg1Val1Data=(value not set)
+Reg1Vals=1
+Reg2Path=HKEY_CURRENT_USER
+Reg2Val1Type=0
+Reg2Val1Name=(Default)
+Reg2Val1Data=(value not set)
+Reg2Vals=1
+Reg3Path=HKEY_LOCAL_MACHINE
+Reg3Val1Type=0
+Reg3Val1Name=(Default)
+Reg3Val1Data=(value not set)
+Reg3Vals=1
+Reg4Path=HKEY_USERS
+Reg4Val1Type=0
+Reg4Val1Name=(Default)
+Reg4Val1Data=(value not set)
+Reg4Vals=1
+Reg5Path=HKEY_CURRENT_CONFIG
+Reg5Val1Type=0
+Reg5Val1Name=(Default)
+Reg5Val1Data=(value not set)
+Reg5Vals=1
+Reg6Path=HKEY_DYN_DATA
+Reg6Val1Type=0
+Reg6Val1Name=(Default)
+Reg6Val1Data=(value not set)
+Reg6Vals=1
+Reg7Path=HKEY_LOCAL_MACHINE\IntellHouse
+Reg7PathUninstall=1
+Reg7Val1Type=0
+Reg7Val1Name=(Default)
+Reg7Val1Data=(value not set)
+Reg7Vals=1
+Regs=7
+
+[Registry]
+Reg1Path=HKEY_LOCAL_MACHINE\IntellHouse
+Reg1PathUninstall=1
+Regs=1
+
+[Icons]
+Icons=1
+Icon1Param=
+Icon1Cmd=[Program Files]\Tervezo.exe
+Icon1Description=Tervezo
+Icon1WorkingDir=[Program Files]
+Icon1IconFile=
+Icon1RealFile=C:\IntellHouse\Tervezo\Tervezo.exe
+Icon1WhichIcon=0
+Icon1KeyVirtual=0
+Icon1KeyFlags=0
+Icon1StartMenu=0
+Icon1Window=0
+
+[IDAPI Alias]
+Alias1=Epulet
+Alias1Path=<INSTALLDIR>\Alaprajzok
+Alias1Type=PARADOX
+Aliases=1
+SaveCfg=1
+
+[IDAPI Alias Epulet]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Autoexec]
+PathDir=
+ShareLocks=
+ShareFiles=
+Command=
+
+[CopyToFloppy]
+DriveOption=
+DestinationPath=
+DestinationPathOneFile=
+Password=
+
+[ISObjectIDs]
+nTotal=1
+ID1=101
+
+[Uninstall]
+UserUninstall=0
