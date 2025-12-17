@@ -1,69 +1,74 @@
 # IntellHouse – Épületvezérlő rendszer
 
-Ez a repository az **„Épület vezérlése (IntellHouse)”** című szakdolgozathoz kapcsolódik  
-(ELTE TTK, 2004, Mészáros Zoltán).
+![Language](https://img.shields.io/badge/language-Delphi-red)
+![Status](https://img.shields.io/badge/status-legacy%20project-lightgrey)
+![Type](https://img.shields.io/badge/type-university%20thesis-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-blue)
+![Year](https://img.shields.io/badge/year-2004-informational)
 
-## Áttekintés
+> ELTE TTK szakdolgozat – Intelligens épület-felügyeleti és vezérlő rendszer
 
-Az IntellHouse egy **intelligens épület-felügyeleti és vezérlő programrendszer**, amely
-lehetővé teszi egy épület elektromos berendezéseinek tervezését, felügyeletét és vezérlését számítógépről.
+---
 
-## Fő komponensek
+## 📘 Áttekintés
 
-- **Tervező** – Alaprajz készítése, objektumok és berendezések elhelyezése  
-- **Vezérlő** – Berendezések irányítása, állapotfigyelés, eseménykezelés  
-- **Tesztelő** – Berendezések működésének szimulációja és kommunikáció tesztelése
+Az **IntellHouse** egy **PC-alapú intelligens épületvezérlő rendszer**,  
+amely egy épület vagy épületegyüttes elektromos berendezéseinek:
 
-## Támogatott berendezések
+- tervezését,
+- felügyeletét,
+- vezérlését,
+- és szimulációját
 
-- Hőmérők
-- Riasztók
-- Tűzjelzők
-- Fűtőtestek
-- Egyéb általános berendezések
+teszi lehetővé egységes programrendszerben.
 
-## Technológia
+A projekt **2004-ben készült szakdolgozatként**, és a korabeli
+épületautomatizálási, biztonságtechnikai és integrációs igényekre ad választ.
 
-- **Fejlesztőkörnyezet:** Delphi 5 Professional  
-- **Platform:** Windows (Win9x / ME / 2000 / NT)  
-- **Kommunikáció:** soros port, saját adatátviteli protokoll
+---
 
-## Megjegyzés
+## 🧩 Rendszerfelépítés
 
-A projekt oktatási célból készült, a korabeli technológiai környezetet tükrözi.
+A megoldás **három különálló alkalmazásból** áll:
 
--------------------------------------------------------------------------------------------------------------------------------
+### 🛠 Tervező (Designer)
+- Épületek egyszerűsített alaprajzának rajzolása
+- Objektumok (helyiségek, zónák) definiálása
+- Berendezések elhelyezése és strukturálása
 
-# IntellHouse – Building Control System
+### 🎛 Vezérlő (Controller)
+- Berendezések valós idejű irányítása
+- Állapotfigyelés és eseménykezelés
+- Naplózás és riasztási logika
 
-This repository contains the thesis project **“Building Control (IntellHouse)”**  
-(ELTE Faculty of Science, 2004, Zoltán Mészáros).
+### 🧪 Tesztelő (Tester)
+- Fizikai berendezések működésének szimulációja
+- Kommunikáció tesztelése külön számítógépről
+- Szenzor- és állapotváltozások modellezése
 
-## Overview
+---
 
-IntellHouse is an **intelligent building monitoring and control system**
-designed to plan, supervise, and control electrical devices within a building using a PC-based application.
+## 🔌 Támogatott berendezések
 
-## Main Components
+- 🌡 Hőmérők
+- 🚨 Riasztók
+- 🔥 Tűzjelzők
+- ♨️ Fűtőtestek
+- ⚙️ Egyéb általános berendezések
 
-- **Designer** – Create floor plans and place objects and devices  
-- **Controller** – Control devices, monitor states, handle events  
-- **Tester** – Simulate device behavior and test communication
+---
 
-## Supported Devices
+## 💬 Kommunikáció
 
-- Thermometers
-- Alarms
-- Fire detectors
-- Heaters
-- Other general devices
+- Soros / párhuzamos port alapú adatátvitel
+- Egyedi, egyszerű adatkapcsolati protokoll
+- Szimulált simplex megáll-és-vár mechanizmus
 
-## Technology
+---
 
-- **Development environment:** Delphi 5 Professional  
-- **Platform:** Windows (Win9x / ME / 2000 / NT)  
-- **Communication:** Serial port with custom protocol
+## 🧰 Technológia
 
-## Notes
-
-This project was created for educational purposes and reflects the technology available at the time of development.
+- **Nyelv:** Delphi (Object Pascal)
+- **Fejlesztőkörnyezet:** Delphi 5 Professional
+- **Platform:** Windows (Win9x / ME / 2000 / NT)
+- **Architektúra:** asztali alkalmazások
