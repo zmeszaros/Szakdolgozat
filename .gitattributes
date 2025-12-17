@@ -1,0 +1,31 @@
+# -----------------------------
+# Delphi nyelv kényszerítése
+# -----------------------------
+*.pas linguist-language=Delphi
+*.dpr linguist-language=Delphi
+*.dfm linguist-language=Delphi
+*.dpk linguist-language=Delphi
+*.inc linguist-language=Delphi
+
+# -----------------------------
+# Generált / bináris fájlok kizárása
+# -----------------------------
+*.exe linguist-generated=true
+*.dll linguist-generated=true
+*.bpl linguist-generated=true
+*.dcu linguist-generated=true
+*.map linguist-generated=true
+*.~*  linguist-generated=true
+
+# -----------------------------
+# Dokumentáció kizárása a statisztikából
+# -----------------------------
+*.md  linguist-documentation=true
+*.pdf linguist-documentation=true
+*.txt linguist-documentation=true
+
+# -----------------------------
+# Régi Delphi project fájlok
+# -----------------------------
+*.dof linguist-generated=true
+*.cfg linguist-generated=true
