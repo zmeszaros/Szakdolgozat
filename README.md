@@ -60,7 +60,7 @@ A megoldás **három különálló alkalmazásból** áll:
 
 ## 💬 Kommunikáció
 
-- Soros / párhuzamos port alapú adatátvitel
+- Soros / Párhuzamos port alapú adatátvitel
 - Egyedi, egyszerű adatkapcsolati protokoll
 - Szimulált simplex megáll-és-vár mechanizmus
 
@@ -103,7 +103,7 @@ Jelenleg nincs hivatalosan meghatározott licenc
 
 ---
 
----
+
 
 # English version
 
@@ -172,7 +172,7 @@ The solution consists of **three standalone desktop applications**:
 
 ## 💬 Communication
 
-- Serial port–based communication
+- Serial / Paralell port–based communication
 - Custom lightweight communication protocol
 - Simplex stop-and-wait message handling
 
@@ -187,3 +187,28 @@ The solution consists of **three standalone desktop applications**:
 
 ---
 
+## ⚠️ Project Status
+
+This is a **legacy / archived project**.
+
+- Not actively maintained
+- Compatibility with modern operating systems is not guaranteed
+- Intended for educational, documentation, and historical reference
+
+---
+
+## 🎓 Author
+
+**Zoltán Mészáros**  
+ELTE Faculty of Science  
+Programmer Mathematician  
+📅 2004
+
+---
+
+## 📄 License
+
+This project was created for **educational purposes**.
+
+No formal license has been specified  
+(*educational / archive project*).
