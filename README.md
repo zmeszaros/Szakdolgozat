@@ -172,7 +172,7 @@ The solution consists of **three standalone desktop applications**:
 
 ## 💬 Communication
 
-- Serial / Paralell port–based communication
+- Serial / Parallel port–based communication
 - Custom lightweight communication protocol
 - Simplex stop-and-wait message handling
 
